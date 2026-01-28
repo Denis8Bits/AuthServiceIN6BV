@@ -1,4 +1,4 @@
-namespace AuthService.Application.Exceptions;
+namespace AuthServiceIN6BV.Application.Exceptions;
 
 public static class ErrorCodes
 {
